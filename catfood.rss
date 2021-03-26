@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <atom:link href="//catfood.toolforge.org/catfood.php?category=Graphic_works_by_Anton" rel="self" type="application/rss+xml" /><title>Graphic works by Anton - commons.wikimedia.org</title>
+  <link>http://tools.wmflabs.org/catfood/catfood.php</link><description>Category feed for category "Graphic works by Anton" from commons.wikimedia.org</description><language>en-us</language><copyright>Feed: GNU Free Documentation License; Images: see description page</copyright><pubDate>Tue, 02 Jan 2018 13:03:04 GMT</pubDate><lastBuildDate>Tue, 02 Jan 2018 13:03:04 GMT</lastBuildDate><generator>CatFood</generator>
+  <docs>http://tools.wmflabs.org/catfood/catfood.php</docs>
+
+  <image>
+    <url>http://upload.wikimedia.org/wikipedia/commons/7/79/Wiki-commons.png</url>
+    <title>Graphic works by Anton - commons.wikimedia.org</title>
+    <link>http://tools.wmflabs.org/catfood/catfood.php</link>
+  </image>
+  <br />
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function getWebserverForWiki() in /data/project/catfood/public_html/catfood.php:14
+Stack trace:
+#0 /data/project/catfood/public_html/catfood.php(279): get_image_url('commons', 'Messianic_symbo...', 'wikipedia')
+#1 {main}
+  thrown in <b>/data/project/catfood/public_html/catfood.php</b> on line <b>14</b><br />
